@@ -1,0 +1,5 @@
+1. check Q4 and Q5
+2. figure the answer to Q1, Q2 and Q3
+3. refine the code
+4. modify Q6
+5. fix mixed using train and val problem
