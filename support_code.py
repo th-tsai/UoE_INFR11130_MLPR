@@ -1,9 +1,3 @@
-# You are expected to use this support code.
-# You may want to write:
-# from ct_support_code import *
-# at the top of your answers
-
-# You will need NumPy and SciPy:
 import numpy as np
 from scipy.optimize import minimize
 from scipy.linalg import cho_factor, cho_solve
